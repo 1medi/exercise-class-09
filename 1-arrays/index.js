@@ -82,7 +82,7 @@ console.log(bakingRecipies) // [ 'brownies', 'cookies', 'cakes' ]
  * 
  */
 
-    
+
 var schedule = [
   [ "COMP 1170","Fundamentals Frontend Web Tech", "3.0"],
   [ "MDIA 1055","Vector Graphics", "3.0"],
